@@ -1,5 +1,5 @@
 ---
-title: Features overview
+title: Özelliklere genel bakış
 sidebar_position: 1
 ---
 
@@ -111,7 +111,7 @@ In the Filtering Log, you can directly observe all web requests made by browsers
 
 You can block each request right there in one tap (or unblock it, if the request is already blocked). There's also detailed information about each request, although it is mostly aimed at the advanced users, particularly those who create their own filtering rules. We will be elaborating on it just a bit further below.
 
-## User rules
+## Kullanıcı kuralları
 
 As mentioned above, AdGuard for Android uses a set of filters to block ads. And then there is the User rules section that allows you to create and adjust your own filtering rules. It is located in the Settings tab of the AdGuard menu.
 
@@ -201,7 +201,7 @@ Userscripts (we also call them extensions) are basically mini-programs written i
 
 By the way, you can tap any added userscript to see more details, and to reinstall or delete it.
 
-## Compatibility with AdGuard VPN
+## AdGuard VPN ile uyumluluk
 
 The best kind of compatibility is when you install two apps and they just start working together. Presuming you already have AdGuard Ad Blocker installed, just download AdGuard VPN from Play Store (you can get there right from the ad blocker app, there's an item in General settings).
 

@@ -1,5 +1,5 @@
 ---
-title: Features overview
+title: Özelliklere genel bakış
 sidebar_position: 1
 ---
 
@@ -43,7 +43,7 @@ To add a filter, just click *Add custom filter*, enter the URL or the file path 
 
 ![Add a custom filter *border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_custom_filters1.png)
 
-### User rules {#user-rules}
+### Kullanıcı kuralları {#user-rules}
 
 *User rules* is another tool that helps you customize the blocking of ads.
 

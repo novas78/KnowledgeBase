@@ -1,15 +1,15 @@
 ---
-title: Legacy licenses FAQ
+title: FAQ sobre licencias heredadas
 sidebar_position: 4
 ---
 
-We have written this article to avoid confusion and explain in detail how you can renew/upgrade an outdated (legacy) AdGuard license.
+Escribimos este artículo para evitar confusiones y explicar en detalle cómo puedes renovar/actualizar una licencia de AdGuard obsoleta (heredada).
 
-## About the outdated licenses
+## Acerca de las licencias obsoletas
 
-Initially licenses of the following types were available to activate AdGuard products:
+Inicialmente, las licencias de los siguientes tipos estaban disponibles para los productos de AdGuard:
 
-**Standard** — for desktop applications AdGuard for Windows/AdGuard for Mac
+**Standard**: para aplicaciones de escritorio AdGuard para Windows/AdGuard para Mac
 
 **Mobile** — for mobile applications AdGuard for Android/AdGuard for iOS
 
